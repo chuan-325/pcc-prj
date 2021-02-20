@@ -1,0 +1,120 @@
+Title:Perseverance Rover lands on Mars [video]
+Discussion link:http://news.ycombinator.com/item?id=26184190
+Comments:457
+
+Title:Tauri: An Electron alternative written in Rust
+Discussion link:http://news.ycombinator.com/item?id=26194990
+Comments:343
+
+Title:Mars becomes the 2nd planet that has more computers running Linux than Windows
+Discussion link:http://news.ycombinator.com/item?id=26197280
+Comments:241
+
+Title:BTC Endgame
+Discussion link:http://news.ycombinator.com/item?id=26198210
+Comments:210
+
+Title:Ultima VIII – How to destroy a gaming franchise in one easy step
+Discussion link:http://news.ycombinator.com/item?id=26195083
+Comments:170
+
+Title:OpenStreetMap charts a controversial new direction
+Discussion link:http://news.ycombinator.com/item?id=26194285
+Comments:149
+
+Title:The DreamBank, a collection of over 20k dream reports
+Discussion link:http://news.ycombinator.com/item?id=26194534
+Comments:138
+
+Title:How Antidepressants Work, at Last?
+Discussion link:http://news.ycombinator.com/item?id=26197140
+Comments:95
+
+Title:Coinbase valued above $100B, ahead of direct listing
+Discussion link:http://news.ycombinator.com/item?id=26199426
+Comments:83
+
+Title:Brave Browser leaks your Tor / Onion service requests through DNS
+Discussion link:http://news.ycombinator.com/item?id=26194764
+Comments:83
+
+Title:Show HN: Split Keyboards Gallery
+Discussion link:http://news.ycombinator.com/item?id=26179311
+Comments:76
+
+Title:A request for Pinboard old-timers
+Discussion link:http://news.ycombinator.com/item?id=26199676
+Comments:73
+
+Title:Cockpit – Integrated, glanceable, web-based interface for servers
+Discussion link:http://news.ycombinator.com/item?id=26197510
+Comments:65
+
+Title:Researchers looking for mRNA were ridiculed by colleagues
+Discussion link:http://news.ycombinator.com/item?id=26196372
+Comments:64
+
+Title:Wayland on Wine: A First Update
+Discussion link:http://news.ycombinator.com/item?id=26194241
+Comments:61
+
+Title:Draw an iceberg and see how it would float in water
+Discussion link:http://news.ycombinator.com/item?id=26201160
+Comments:45
+
+Title:Launch HN: MindsDB (YC W20) – Machine Learning Inside Your Database
+Discussion link:http://news.ycombinator.com/item?id=26195057
+Comments:44
+
+Title:Launch HN: HiGeorge (YC W21) – Real-time data visualizations for public datasets
+Discussion link:http://news.ycombinator.com/item?id=26194440
+Comments:41
+
+Title:Mars landing: Photo shows Perseverance rover during landing
+Discussion link:http://news.ycombinator.com/item?id=26196301
+Comments:39
+
+Title:My Life in E-Ink
+Discussion link:http://news.ycombinator.com/item?id=26200630
+Comments:37
+
+Title:Why Birds Don’t Get Cold Feet
+Discussion link:http://news.ycombinator.com/item?id=26195293
+Comments:19
+
+Title:F’: Flight Software and Embedded Systems Framework
+Discussion link:http://news.ycombinator.com/item?id=26199346
+Comments:16
+
+Title:Sequoia Capital says it was hacked
+Discussion link:http://news.ycombinator.com/item?id=26201044
+Comments:15
+
+Title:Cleaner parallel curves with Euler spirals
+Discussion link:http://news.ycombinator.com/item?id=26196470
+Comments:12
+
+Title:Google Research: NSan: a floating-point numerical sanitizer
+Discussion link:http://news.ycombinator.com/item?id=26199947
+Comments:10
+
+Title:Squad: Forth on Chip-8
+Discussion link:http://news.ycombinator.com/item?id=26188165
+Comments:6
+
+Title:The Object-Oriented Amiga Exec (1991)
+Discussion link:http://news.ycombinator.com/item?id=26179487
+Comments:3
+
+Title:How We ”Email” Hardware to Space (2014)
+Discussion link:http://news.ycombinator.com/item?id=26178746
+Comments:1
+
+Title:Cinnamon: Of early modern medicinal monopolies
+Discussion link:http://news.ycombinator.com/item?id=26189498
+Comments:0
+
+Title:Circle Medical (YC S15) Is Hiring a Growth Engineer
+Discussion link:http://news.ycombinator.com/item?id=26197979
+Comments:0
+
